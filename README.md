@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ashish Pandey
 - 👀 I’m interested in Data Science, Data Analyst, AI & ML, Deep Learning & etc...
-- 🌱 I’m currently learning MCA
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently Pursuing Master of Computer Application (MCA)
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me ajpandey55555@gmail.com
 
 <!---
